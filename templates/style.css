@@ -1,0 +1,18 @@
+
+
+body{
+    background-image=url("https://cdn1.vectorstock.com/i/1000x1000/82/10/multicolored-patterns-stylish-backgrounds-with-vector-4658210.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+.titlebar{
+    background-color:#00a65a;
+    padding:10px;
+    text-align:center;
+    color:white;
+}
+
+#main_space form{
+    align:center;
+}
